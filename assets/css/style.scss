@@ -13,9 +13,12 @@ a {
 
 .showcase-gallery {
     width: 100%;
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-    grid-gap: 1rem 1rem;
+
+    &.is-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+        grid-gap: 1rem 1rem;
+    }
 
     a {
         display: block;
@@ -29,6 +32,19 @@ a {
         //     width: 100%;
         //     height: 100%;
         // }
+    }
+}
+
+
+.pswp.inline {
+    display: block;
+    position: relative;
+    z-index: 100;
+    
+    video {
+        width: 100%;
+        height: 100%;
+        pointer-events: initial !important;
     }
 }
 

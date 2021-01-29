@@ -194,7 +194,7 @@ var initPhotoSwipeFromDOM = function (gallerySelector) {
     galleryElements[i].onclick = onThumbnailsClick;
   }
 
-  console.log('galleryElements =>', galleryElements);
+  // console.log('galleryElements =>', galleryElements);
 
   // Parse URL and open gallery if it contains #&pid=3&gid=1
   var hashData = photoswipeParseHash();

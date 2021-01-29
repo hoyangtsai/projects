@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   <link rel="stylesheet" type="text/css" href="{{ '/assets/css/print.css' | relative_url }}" media="print">
@@ -12,9 +12,12 @@
   <link rel="stylesheet" href="assets/photoswipe/photoswipe.css">
   <link rel="stylesheet" href="assets/photoswipe/default-skin/default-skin.css">
   <!-- Core JS file -->
-  <script src="assets/photoswipe/photoswipe.min.js"></script>
+  <script src="assets/photoswipe/photoswipe.js"></script>
   <!-- UI JS file -->
-  <script src="assets/photoswipe/photoswipe-ui-default.min.js"></script>
+  <script src="assets/photoswipe/photoswipe-ui-default.js"></script>
+
+  <!-- <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />  
+  <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script> -->
 
   {% seo %}
 </head>
