@@ -12,6 +12,8 @@ class InlinePhotoswipe {
       closeOnVerticalDrag: false,
       closeEl: false,
       closeElClasses: [],
+      shareEl: false,
+      shareButtons: [],
     };
   
     this.photoSwipeInst = null;

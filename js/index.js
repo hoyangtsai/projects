@@ -46,16 +46,45 @@ const thanksgivingSlides = [
     w: 562,
     h: 1218,
     html: `<video controls muted disablePictureInPicture controlsList="nodownload" ` +
-      `poster="assets/yqt/campaign/thanksgiving/letter.png">` +
+      `poster="assets/yqt/campaign/thanksgiving/letter.jpg">` +
       `<source src="assets/yqt/campaign/thanksgiving/RPReplay_Final1607095077.mp4" type="video/mp4">` +
       `</video>`,
   }
 ];
 
+const wxgoldSlides = [
+  {
+    src: 'assets/wxgold/IMG_1566.jpg',
+    w: 562,
+    h: 1218,
+    title: '金沙紅包'
+  },
+  {
+    src: 'assets/wxgold/IMG_1567.jpg',
+    w: 562,
+    h: 1218
+  },
+  {
+    src: 'assets/wxgold/IMG_1554.jpg',
+    w: 562,
+    h: 1218
+  },
+  {
+    videosrc: 'assets/wxgold/RPReplay_Final1561480690.mp4',
+    w: 562,
+    h: 1218,
+    html: `<video controls muted disablePictureInPicture controlsList="nodownload">` +
+      `<source src="assets/wxgold/RPReplay_Final1561480690.mp4" type="video/mp4">` +
+      `</video>`,
+  }
+];
+
 inlineShowcaseEles.forEach(el => {
-  if (el.dataset.event === 'mid-autumn') {
+  if (el.dataset.slide === 'mid-autumn') {
     new inlinePhotoswipe(el, midAutumnSlides).init();
-  } else if (el.dataset.event === 'thanksgiving') {
+  } else if (el.dataset.slide === 'thanksgiving') {
     new inlinePhotoswipe(el, thanksgivingSlides).init();
+  } else if (el.dataset.slide === 'wxgold') {
+    new inlinePhotoswipe(el, wxgoldSlides).init();
   }
 });
