@@ -9,6 +9,24 @@ h3 {
 
 a {
     color: currentColor;
+
+    &.button {
+        float: initial;
+        margin-bottom: 1rem;
+    }
+}
+
+h4 {
+    line-height: 2;
+}
+
+p {
+    margin-bottom: 0;
+    line-height: 2;
+
+    &.footer-para {
+        font-weight: 400;
+    }
 }
 
 #container .inner {
