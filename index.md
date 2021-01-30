@@ -62,7 +62,7 @@ layout: default
 </div>
 {% include photoswipe-modal.html %}
 
-掃 QR code 體驗
+#### 掃 QR code 體驗
 
 <img src="assets/yqt/h5/qrcode.jpg" width="375" height="126" alt="qr code" />
 
@@ -211,6 +211,68 @@ layout: default
     </div>
 </div>
 
-微信掃 QR code 體驗
+### 微信掃 QR code 體驗
 
 <img src="assets/wxgold/qrcode.jpg" width="200" height="200" alt="qr code" />
+
+## 騰訊聯名微加信用卡
+
+### 產品網站
+
+<div class="showcase-gallery" itemscope itemtype="http://schema.org/ImageGallery">
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="assets/wecard/index-mobile.jpg" itemprop="contentUrl" data-size="562x1218">
+            <img src="assets/wecard/index-mobile.jpg" width="281" height="609" itemprop="thumbnail" alt="首頁移動端" />
+        </a>
+        <figcaption>響應式移動端</figcaption>
+    </figure>
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="assets/wecard/index-pc.jpg" itemprop="contentUrl" data-size="1378x1544">
+            <img src="assets/wecard/index-pc.jpg" width="689" height="772" itemprop="thumbnail" alt="首頁桌面端" />
+        </a>
+        <figcaption>響應式桌面端</figcaption>
+    </figure>
+</div>
+{% include photoswipe-modal.html %}
+
+#### 體驗連結
+
+[https://wepluscard.qq.com/mdft/index.shtml](https://wepluscard.qq.com/mdft/index.shtml)
+
+### 營銷活動
+
+<div class="pswp showcase-gallery__inline inline"
+    style="height: 609px;"
+    data-slide="wecard"
+    role="dialog" tabindex="-1" aria-hidden="true">
+    <div class="pswp__bg"></div>
+    <div class="pswp__scroll-wrap">
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+        <div class="pswp__ui pswp__ui--hidden">
+            <div class="pswp__top-bar">
+                <div class="pswp__counter"></div>
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+        </div>
+    </div>
+</div>
