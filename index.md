@@ -64,7 +64,7 @@ layout: default
 
 #### 掃 QR code 體驗
 
-<img src="assets/yqt/h5/qrcode.jpg" width="375" height="126" alt="qr code" />
+<img src="assets/yqt/h5/qrcode.jpg" width="320" height="108" alt="qr code" />
 
 ### 營銷活動
 
@@ -228,7 +228,7 @@ layout: default
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
         <a href="assets/wecard/index-pc.jpg" itemprop="contentUrl" data-size="1378x1544">
-            <img src="assets/wecard/index-pc.jpg" width="689" height="772" itemprop="thumbnail" alt="首頁桌面端" />
+            <img src="assets/wecard/index-pc.jpg" width="100%" height="auto" itemprop="thumbnail" alt="首頁桌面端" />
         </a>
         <figcaption>響應式桌面端</figcaption>
     </figure>
