@@ -227,8 +227,8 @@ layout: default
         <figcaption>響應式移動端</figcaption>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="assets/wecard/index-pc.jpg" itemprop="contentUrl" data-size="1378x1544">
-            <img src="assets/wecard/index-pc.jpg" width="100%" height="auto" itemprop="thumbnail" alt="首頁桌面端" />
+        <a href="assets/wecard/index-desktop.jpg" itemprop="contentUrl" data-size="1378x1544">
+            <img src="assets/wecard/index-desktop.jpg" width="100%" height="auto" itemprop="thumbnail" alt="首頁桌面端" />
         </a>
         <figcaption>響應式桌面端</figcaption>
     </figure>
