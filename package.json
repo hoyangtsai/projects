@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hoyangtsai/portfolio.git"
+    "url": "git+https://github.com/hoyangtsai/projects.git"
   },
   "keywords": [
     "resume"
@@ -21,9 +21,9 @@
   "author": "Hoyang Tsai",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hoyangtsai/portfolio/issues"
+    "url": "https://github.com/hoyangtsai/projects/issues"
   },
-  "homepage": "https://github.com/hoyangtsai/portfolio#readme",
+  "homepage": "https://github.com/hoyangtsai/projects#readme",
   "devDependencies": {
     "@babel/core": "^7.12.10",
     "@babel/preset-env": "^7.12.11",
