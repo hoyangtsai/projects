@@ -2,7 +2,7 @@
 layout: default
 ---
 
-於騰訊工作期間，開發的產品主要圍繞微信金融科技相關應用
+於騰訊工作期間，開發的產品主要圍繞微信支付金融科技應用
 
 ## 一起投
 
@@ -66,7 +66,7 @@ layout: default
 
 <img src="assets/yqt/h5/qrcode.jpg" width="320" height="108" alt="qr code" />
 
-### 營銷活動
+### 行銷活動
 
 #### 中秋節
 
@@ -150,7 +150,7 @@ layout: default
     </div>
 </div>
 
-## 資產管理平台 (基金機構端)
+## 基金資產管理系統 2.0
 
 <div class="showcase-gallery" itemscope itemtype="http://schema.org/ImageGallery">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
@@ -171,7 +171,7 @@ layout: default
 </div>
 {% include photoswipe-modal.html %}
 
-## 微黃金
+## 黃金投資 - 微黃金
 
 ### 微信小程序
 
@@ -215,7 +215,7 @@ layout: default
 
 <img src="assets/wxgold/qrcode.jpg" width="200" height="200" alt="qr code" />
 
-## 騰訊聯名微加信用卡
+## 騰訊聯名信用卡
 
 ### 產品網站
 
@@ -239,7 +239,7 @@ layout: default
 
 [https://wepluscard.qq.com/mdft/index.shtml](https://wepluscard.qq.com/mdft/index.shtml)
 
-### 營銷活動
+### 行銷活動
 
 <div class="pswp showcase-gallery__inline inline"
     style="height: 609px;"
