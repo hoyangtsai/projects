@@ -2,9 +2,9 @@
 layout: default
 ---
 
-於騰訊工作期間，開發的產品主要圍繞微信支付金融科技應用
+於騰訊 CDG 金融科技中心擔任前端工程師期間，開發的產品圍繞微信支付相關應用
 
-## 一起投
+## 基金組合投資平台（一起投）
 
 ### 微信小程序
 
@@ -41,7 +41,7 @@ layout: default
 
 <img src="assets/yqt/mini-app/qrcode.jpg" width="200" height="200" alt="qr code" />
 
-### 微信內嵌 webview
+### 微信 Mobile App
 
 <div class="showcase-gallery is-grid" itemscope itemtype="http://schema.org/ImageGallery">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
@@ -171,7 +171,7 @@ layout: default
 </div>
 {% include photoswipe-modal.html %}
 
-## 黃金投資 - 微黃金
+## 黃金投資（微黃金）
 
 ### 微信小程序
 
@@ -216,21 +216,20 @@ layout: default
 <img src="assets/wxgold/qrcode.jpg" width="200" height="200" alt="qr code" />
 
 ## 騰訊聯名信用卡
-
-### 產品網站
+### 產品官網
 
 <div class="showcase-gallery" itemscope itemtype="http://schema.org/ImageGallery">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <figcaption>響應式移動端</figcaption>
         <a href="assets/wecard/index-mobile.jpg" itemprop="contentUrl" data-size="562x1218">
             <img src="assets/wecard/index-mobile.jpg" width="281" height="609" itemprop="thumbnail" alt="首頁移動端" />
         </a>
-        <figcaption>響應式移動端</figcaption>
     </figure>
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <figcaption>響應式桌面端</figcaption>
         <a href="assets/wecard/index-desktop.jpg" itemprop="contentUrl" data-size="1378x1544">
             <img src="assets/wecard/index-desktop.jpg" width="100%" height="auto" itemprop="thumbnail" alt="首頁桌面端" />
         </a>
-        <figcaption>響應式桌面端</figcaption>
     </figure>
 </div>
 {% include photoswipe-modal.html %}
