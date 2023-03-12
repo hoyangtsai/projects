@@ -150,7 +150,7 @@ layout: default
     </div>
 </div>
 
-## 基金資產管理系統 2.0
+<h2 id="fund-asset-management-system">基金資產管理系統</h2>
 
 <div class="showcase-gallery" itemscope itemtype="http://schema.org/ImageGallery">
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
@@ -171,7 +171,7 @@ layout: default
 </div>
 {% include photoswipe-modal.html %}
 
-## 黃金投資（微黃金）
+<h2 id="gold-investment">黃金投資（微黃金）</h2>
 
 ### 微信小程序
 
@@ -215,7 +215,8 @@ layout: default
 
 <img src="assets/wxgold/qrcode.jpg" width="200" height="200" alt="qr code" />
 
-## 騰訊聯名信用卡
+<h2 id="tencent-co-branded-credit-card">騰訊聯名信用卡</h2>
+
 ### 產品官網
 
 <div class="showcase-gallery" itemscope itemtype="http://schema.org/ImageGallery">
