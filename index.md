@@ -4,7 +4,7 @@ layout: default
 
 於騰訊 CDG 金融科技中心擔任前端工程師期間，開發的產品圍繞微信支付相關應用
 
-## 基金組合投資平台（一起投）
+<h2 id="fund-portfolio-investment">基金組合投資平台（一起投）</h2>
 
 ### 微信小程序
 
