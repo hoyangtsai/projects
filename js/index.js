@@ -177,12 +177,12 @@ const fundPortfolioCampaignSlides = [
     title: '感恩節 - 封裝卡片與動畫'
   },
   {
-    videosrc: 'assets/yqt/campaign/thanksgiving/RPReplay_Final1607095077.mp4',
+    videosrc: '//media.githubusercontent.com/media/hoyangtsai/projects/main/assets/yqt/campaign/thanksgiving/RPReplay_Final1607095077.mp4',
     w: 1125,
     h: 2436,
     html: `<video controls muted disablePictureInPicture controlsList="nodownload" ` +
       `poster="assets/yqt/campaign/thanksgiving/letter.jpg">` +
-      `<source src="assets/yqt/campaign/thanksgiving/RPReplay_Final1607095077.mp4" type="video/mp4">` +
+      `<source src="//media.githubusercontent.com/media/hoyangtsai/projects/main/assets/yqt/campaign/thanksgiving/RPReplay_Final1607095077.mp4" type="video/mp4">` +
       `</video>`,
   }
 ];
@@ -241,11 +241,11 @@ const wxgoldSlides = [
     h: 2436
   },
   {
-    videosrc: 'assets/wxgold/RPReplay_Final1561480690.mp4',
+    videosrc: '//media.githubusercontent.com/media/hoyangtsai/projects/main/assets/wxgold/RPReplay_Final1561480690.mp4',
     w: 1125,
     h: 2436,
     html: `<video controls muted disablePictureInPicture controlsList="nodownload">` +
-      `<source src="assets/wxgold/RPReplay_Final1561480690.mp4" type="video/mp4">` +
+      `<source src="//media.githubusercontent.com/media/hoyangtsai/projects/main/assets/wxgold/RPReplay_Final1561480690.mp4" type="video/mp4">` +
       `</video>`,
   }
 ];
@@ -278,11 +278,11 @@ const wecardSlides = [
     h: 2436,
   },
   {
-    videosrc: 'assets/wecard/RPReplay_Final1561606039.mp4',
+    videosrc: '//media.githubusercontent.com/media/hoyangtsai/projects/main/assets/wecard/RPReplay_Final1561606039.mp4',
     w: 1124,
     h: 2436,
     html: `<video controls muted disablePictureInPicture controlsList="nodownload" poster="assets/wecard/event-618.jpg">` +
-      `<source src="assets/wecard/RPReplay_Final1561606039.mp4" type="video/mp4">` +
+      `<source src="//media.githubusercontent.com/media/hoyangtsai/projects/main/assets/wecard/RPReplay_Final1561606039.mp4" type="video/mp4">` +
       `</video>`,
   }
 ];
