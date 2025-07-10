@@ -6,7 +6,7 @@ Showcases
 
 # ShopBack
 
-Leading and developing the frontend of the [cashback browser extension](https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap)
+Leading and developing the frontend of the [ShopBack Chrome extension](https://chrome.google.com/webstore/detail/shopback-button-cashback/djjjmdgomejlopjnccoejdhgjmiappap)
 
 ## QRCode of Voucher Link
 
